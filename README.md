@@ -7,7 +7,7 @@ I'm a passionate developer with expertise in various programming languages and f
 - 🌱 I’m currently learning [ talewind CSS - React Js - JS OOP ]
 - 👯 I’m looking to collaborate on [ A guiding programming site to learn programming ]
 - 🤔 I’m looking for help with [ project_you_need_help_with ]
-- 💬 Ask me about [ HTML - Resbonsive CSS - Git & GItHub - Css - Js - python - C++ ]
+- 💬 Ask me about [ HTML - TailwaindCSS - Git & GItHub - Css - Js - python - C++ ]
 - 📫 How to reach me: [ anaswail246@gmail.com ]
 
 ## 🛠️ Languages and Tools
